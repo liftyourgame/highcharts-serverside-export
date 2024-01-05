@@ -1,7 +1,8 @@
 repo_name: liftyourgame/highcharts-serverside-export
 report_id: 974a4949b2123808bf6459358a7ab72e
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T16:26:25+00:00'
+timestamp: '2024-01-05T08:23:34+00:00'
 requested_by: liftyourgame
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/liftyourgame/highcharts-serverside-export
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/liftyourgame/highcharts-serverside-export
   detection_source: Repo Metadata
 - name: Apache HTTP Server
   description: Open-source HTTP server for modern operating systems including UNIX
@@ -37,6 +40,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1051/default_9e444e0d6cc9f4f55f1b86979900673af4de46aa.png
+  detection_source_url: https://github.com/liftyourgame/highcharts-serverside-export/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Greg Pagendam-Turner
   last_updated_on: 2012-09-11 00:05:29.000000000 Z
@@ -48,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/liftyourgame/highcharts-serverside-export
   detection_source: Repo Metadata
 - name: SLF4J
   description: Simple logging facade for Java
@@ -57,6 +62,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/liftyourgame/highcharts-serverside-export/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Greg Pagendam-Turner
   last_updated_on: 2012-08-04 02:53:49.000000000 Z
@@ -66,6 +72,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/liftyourgame/highcharts-serverside-export/blob/master/doc/allclasses-frame.html
   detection_source: doc/allclasses-frame.html
   last_updated_by: obt
   last_updated_on: 2011-08-18 15:15:59.000000000 Z
@@ -325,6 +332,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/liftyourgame/highcharts-serverside-export/blob/master/pom.xml
   detection_source: pom.xml
   last_updated_by: Greg Pagendam-Turner
   last_updated_on: 2012-09-11 00:05:29.000000000 Z
