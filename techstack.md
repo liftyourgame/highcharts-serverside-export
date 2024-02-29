@@ -4,8 +4,8 @@
 liftyourgame/highcharts-serverside-export is built on the following main stack:
 
 - [Java](https://www.java.com) – Languages
-- [Apache HTTP Server](https://httpd.apache.org/) – Web Servers
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Apache HTTP Server](https://httpd.apache.org/) – Web Servers
 - [SLF4J](http://slf4j.org/) – Log Management
 
 Full tech stack [here](/techstack.md)
@@ -17,8 +17,8 @@ Full tech stack [here](/techstack.md)
 liftyourgame/highcharts-serverside-export is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1051/default_9e444e0d6cc9f4f55f1b86979900673af4de46aa.png' alt='Apache HTTP Server'/> [Apache HTTP Server](https://httpd.apache.org/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1051/default_9e444e0d6cc9f4f55f1b86979900673af4de46aa.png' alt='Apache HTTP Server'/> [Apache HTTP Server](https://httpd.apache.org/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
 
 Full tech stack [here](/techstack.md)
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [liftyourgame/highcharts-serverside-export](https://github.com/liftyourgame/highcharts-serverside-export)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|01/05/24 <br/>Report generated|
+|25<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
